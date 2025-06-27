@@ -13,6 +13,9 @@ public class newclass {
 	public void santhosh() {
 		
 	}
+public void gopika() {
+		
+	}
 	}
 
 
