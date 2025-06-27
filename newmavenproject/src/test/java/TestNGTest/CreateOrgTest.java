@@ -1,7 +1,11 @@
 package TestNGTest;
 
+import org.testng.annotations.Test;
+
 public class CreateOrgTest {
-public void santhoshmethod() {
-	System.out.println("hi gopika");
-}
+@Test
+public void createOrgTest()
+{
+	System.out.println("hgdigjd");
+	}
 }
